@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643255475820,
+  "index": "IBF20211Day21Workshop/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "IBF20211Day21Workshop/favicon.ico",
+        "IBF20211Day21Workshop/index.html",
+        "IBF20211Day21Workshop/main.6e6feb4dd79685f1.js",
+        "IBF20211Day21Workshop/manifest.webmanifest",
+        "IBF20211Day21Workshop/polyfills.cf1cf646669e51bc.js",
+        "IBF20211Day21Workshop/runtime.116282f4ea8ca2cd.js",
+        "IBF20211Day21Workshop/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "IBF20211Day21Workshop/assets/Lunch-Menu-Template-7.jpg",
+        "IBF20211Day21Workshop/assets/icons/icon-128x128.png",
+        "IBF20211Day21Workshop/assets/icons/icon-144x144.png",
+        "IBF20211Day21Workshop/assets/icons/icon-152x152.png",
+        "IBF20211Day21Workshop/assets/icons/icon-192x192.png",
+        "IBF20211Day21Workshop/assets/icons/icon-384x384.png",
+        "IBF20211Day21Workshop/assets/icons/icon-512x512.png",
+        "IBF20211Day21Workshop/assets/icons/icon-72x72.png",
+        "IBF20211Day21Workshop/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "IBF20211Day21Workshop/assets/Lunch-Menu-Template-7.jpg": "43fce29267443945521b6f1e4557f3534e29831c",
+    "IBF20211Day21Workshop/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "IBF20211Day21Workshop/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "IBF20211Day21Workshop/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "IBF20211Day21Workshop/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "IBF20211Day21Workshop/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "IBF20211Day21Workshop/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "IBF20211Day21Workshop/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "IBF20211Day21Workshop/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "IBF20211Day21Workshop/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "IBF20211Day21Workshop/index.html": "8dd482657b4870a180b331d00f40cb4c57106271",
+    "IBF20211Day21Workshop/main.6e6feb4dd79685f1.js": "040ed7e58305f53b7549aa5a256cf002b9459756",
+    "IBF20211Day21Workshop/manifest.webmanifest": "081dc55c41a7cc447a57ca63808d5354fb2b65c9",
+    "IBF20211Day21Workshop/polyfills.cf1cf646669e51bc.js": "ebd922cf1c7d1ac3f4cfb891d0f7ea4efbc048f5",
+    "IBF20211Day21Workshop/runtime.116282f4ea8ca2cd.js": "222f9f7b2a59f484c311ecc14ba2b242bf56c092",
+    "IBF20211Day21Workshop/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
